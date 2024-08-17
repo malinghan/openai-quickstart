@@ -13,7 +13,7 @@ from utils import LOG
 class Writer:
     def __init__(self):
         pass
-
+ 
     def save_translated_book(self, book: Book, output_file_path: str = None, file_format: str = "PDF"):
         if file_format.lower() == "pdf":
             self._save_translated_book_pdf(book, output_file_path)

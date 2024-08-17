@@ -9,6 +9,7 @@ from utils import LOG
 from openai import OpenAI
 
 class OpenAIModel(Model):
+    # 初始化函数，用于创建一个对象实例
     def __init__(self, model: str, api_key: str):
         self.model = model
         self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
