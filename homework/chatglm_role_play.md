@@ -11,3 +11,7 @@
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
+## code
+
+[code](chatglm_role_play.py)
