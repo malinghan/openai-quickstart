@@ -1,5 +1,6 @@
 import sys
 import os
+os.environ["OPENAI_API_KEY"] = "sk-E0y9LTOvDNUAiMvy2h_bFVEmM2qwIL2KERn_Gh8QpMT3BlbkFJdkm7yZShaZQR-0oAPgYo6r_EEL6PYLt1Qar-McvTsA"
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 

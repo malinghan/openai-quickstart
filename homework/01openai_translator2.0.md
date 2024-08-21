@@ -9,3 +9,17 @@ Feature List
 
 ## answer
 https://github.com/malinghan/openai-quickstart/tree/master/openai-translator-v2
+
+```shell
+cd ~/openai-quickstart/openai-translator-v2
+export OPENAI_API_KEY='openai apikey'
+python ai_translator/main.py
+```
+- 图形化界面
+```shell
+ python ai_translator/gradio_server.py 
+ ```
+![img_2.png](img_2.png)
+
+- 风格化翻译：调试prompt
+![img_3.png](img_3.png)
