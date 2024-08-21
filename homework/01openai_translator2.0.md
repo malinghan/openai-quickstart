@@ -8,3 +8,4 @@ Feature List
 4. 添加对其他语言的支持。
 
 ## answer
+https://github.com/malinghan/openai-quickstart/tree/master/openai-translator-v2

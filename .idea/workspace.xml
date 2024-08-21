@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86ea799-aab9-48f2-918c-43d6f0236031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/langchain_autogpt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/openai_translator_gradio_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/README-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/book/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/book/book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/book/content.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/book/page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/flask_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/gradio_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/translator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/translator/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/translator/pdf_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/translator/pdf_translator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/translator/translation_chain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/translator/translation_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/translator/writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/utils/argument_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/utils/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/fonts/simsun.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/images/sample_image_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/images/sample_image_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/jupyter/flask_client.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/jupyter/translation_chain.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/tests/The_Old_Man_of_the_Sea.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/tests/test.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openai-translator-v2/tests/test_translated.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/04langchain_autogpt.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework/04langchain_autogpt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/chatglm/chatbot_with_memory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/chatglm/chatbot_with_memory.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/agents/openai_function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/agents/openai_function.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/agents/react.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/agents/react.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/agents/self_ask_with_search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/agents/self_ask_with_search.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/autogpt/autogpt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/autogpt/autogpt.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/chains/router_chain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/chains/router_chain.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/chains/sequential_chain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/chains/sequential_chain.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/chains/transform_chain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/chains/transform_chain.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/memory/memory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/memory/memory.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/model_io/model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/model_io/model.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/model_io/output_parser.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/model_io/output_parser.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/jupyter/model_io/prompt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/jupyter/model_io/prompt.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/openai-translator/jupyter/flask_client.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/openai-translator/jupyter/flask_client.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain/openai-translator/jupyter/translation_chain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/openai-translator/jupyter/translation_chain.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a86ea799-aab9-48f2-918c-43d6f0236031" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +98,7 @@
       <workItem from="1721003917920" duration="758000" />
       <workItem from="1724243779850" duration="279000" />
       <workItem from="1724248819532" duration="463000" />
-      <workItem from="1724249294830" duration="5783000" />
+      <workItem from="1724249294830" duration="6119000" />
     </task>
     <servers />
   </component>
