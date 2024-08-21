@@ -1,6 +1,6 @@
 import os
 
-os.environ["OPENAI_API_KEY"] = "sk-E0y9LTOvDNUAiMvy2h_bFVEmM2qwIL2KERn_Gh8QpMT3BlbkFJdkm7yZShaZQR-0oAPgYo6r_EEL6PYLt1Qar-McvTsA"
+os.environ["OPENAI_API_KEY"] = "your key"
 os.environ["SERPAPI_API_KEY"] = "404001578e14b5b0228dea0c19f1882390ba8652c88d2342cea9e4f14a45c7f6"
 
 import faiss
