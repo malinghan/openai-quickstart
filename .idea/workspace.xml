@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a86ea799-aab9-48f2-918c-43d6f0236031" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/01openai_translator2.0.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework/01openai_translator2.0.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openai-translator-v2/ai_translator/gradio_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/gradio_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openai-translator-v2/ai_translator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/openai-translator-v2/ai_translator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openai-translator-v2/tests/test_translated.md" beforeDir="false" afterPath="$PROJECT_DIR$/openai-translator-v2/tests/test_translated.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/chatglm_role_play.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/chatglm_role_play.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +101,7 @@
       <workItem from="1721003917920" duration="758000" />
       <workItem from="1724243779850" duration="279000" />
       <workItem from="1724248819532" duration="463000" />
-      <workItem from="1724249294830" duration="7311000" />
+      <workItem from="1724249294830" duration="8397000" />
     </task>
     <servers />
   </component>
