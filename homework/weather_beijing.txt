@@ -1,0 +1,7 @@
+Location: Beijing, China
+Date: Wednesday 11:00 PM
+Temperature: 78 Fahrenheit
+Weather: Clear with periodic clouds
+Precipitation: 6%
+Humidity: 82%
+Wind: 2 mph
