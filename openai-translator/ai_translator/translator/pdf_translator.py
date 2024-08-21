@@ -15,7 +15,7 @@ class PDFTranslator:
 # target_language  文件输出语言
 # output_file_path  文件输出格式 
 # pages    需要解析的具体页数
-    def translate_pdf(self, pdf_file_path: str, file_format: str = 'PDF', target_language: str = 'German', output_file_path: str = None, pages: Optional[int] = None):
+    def translate_pdf(self, pdf_file_path: str, file_format: str = 'PDF', target_language: str = 'Chinese', output_file_path: str = None, pages: Optional[int] = None):
         self.book = self.pdf_parser.parse_pdf(pdf_file_path, pages)
         # 循环按页数解析
         for page_idx, page in enumerate(self.book.pages):
